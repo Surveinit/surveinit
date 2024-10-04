@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Sagar Surve.
-
+#### > The Odin Project Student with a drive to become a Software Engineer. <
+#### > Constantly learning and coding my way to <em>success</em>! <
 <!-- <img alt="surveinit's github stats" align="left" src="https://github-readme-stats.vercel.app/api?username=surveinit&show_icons=true&theme=tokyonight"/>
 <img alt="language card" align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surveinit&layout=compact&theme=tokyonight&card_width=320"/> -->
 
