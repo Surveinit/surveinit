@@ -4,6 +4,7 @@
 
 #### > The Odin Project Student with a drive to become a Software Engineer. <
 #### > Constantly learning and coding my way to *success*! <
+#### > Currently preparing for JLPT N4, Wish me luck! <
 
 ### GitHub Stats
 <a href="https://github.com/surveinit/convoychat">
