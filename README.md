@@ -1,13 +1,14 @@
-## Hi there 👋 I'm Sagar Surve.
-#### > The Odin Project Student with a drive to become a Software Engineer. <
-#### > Constantly learning and coding my way to <em>success</em>! <
-<!-- <img alt="surveinit's github stats" align="left" src="https://github-readme-stats.vercel.app/api?username=surveinit&show_icons=true&theme=tokyonight"/>
-<img alt="language card" align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surveinit&layout=compact&theme=tokyonight&card_width=320"/> -->
+![image](https://github.com/user-attachments/assets/8ba2a010-bb2d-4c8c-a5ff-306ed6cc4602)
 
-<!-- <a href="https://github.com/surveinit/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=surveinit&show_icons=true&theme=tokyonight" />
-</a>
+## Hi there 👋 I'm Sagar Surve
+
+#### > The Odin Project Student with a drive to become a Software Engineer. <
+#### > Constantly learning and coding my way to *success*! <
+
+### GitHub Stats
 <a href="https://github.com/surveinit/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surveinit&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surveinit&layout=compact&langs_count=8&card_width=320&theme=tokyonight" alt="Top Languages" />
 </a>
--->
+
+<br clear="left"/>
+
