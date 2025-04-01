@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8ba2a010-bb2d-4c8c-a5ff-306ed6cc4602)
+![newForGithub](https://github.com/user-attachments/assets/c56f0c4d-9315-44d5-a6c5-797e17887d33)
 
 ## Hi there 👋 I'm Sagar Surve
 
