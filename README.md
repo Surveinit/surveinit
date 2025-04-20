@@ -1,8 +1,6 @@
 <!---
 ![newForGithub](https://github.com/user-attachments/assets/c56f0c4d-9315-44d5-a6c5-797e17887d33)
 -->
-![WhatsApp Image 2025-04-21 at 1 44 32 AM](https://github.com/user-attachments/assets/277e7ef5-7eda-4312-b9d7-4ac99eebcc4d)
-
 ## Hi there 👋 I'm Sagar Surve
 
 #### > The Odin Project Student with a drive to become a Software Engineer. <
